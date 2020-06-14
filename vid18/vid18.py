@@ -31,3 +31,7 @@ print(spam[-3:])
 print(spam[:-3])
 print('z' in spam)
 print('x' in spam)
+
+# print the 3rd character in a string
+
+print(spam[2])
