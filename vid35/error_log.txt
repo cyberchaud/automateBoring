@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "vid35.py", line 12, in boxPrint
+    raise Exception('"symbol" needs to be a string of length 1.')
+Exception: "symbol" needs to be a string of length 1.
