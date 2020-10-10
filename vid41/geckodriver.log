@@ -1,0 +1,71 @@
+1602284205637	geckodriver	INFO	Listening on 127.0.0.1:38547
+1602284227683	geckodriver	INFO	Listening on 127.0.0.1:55145
+1602284265627	geckodriver	INFO	Listening on 127.0.0.1:55611
+1602284374367	geckodriver	INFO	Listening on 127.0.0.1:33581
+1602284375414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBaJLKn"
+1602284381242	Marionette	INFO	Listening on port 36345
+1602284381335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602284398160	Marionette	INFO	Stopped listening on port 36345
+1602284434097	geckodriver	INFO	Listening on 127.0.0.1:38185
+1602284435110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenSaFvg"
+1602284441162	Marionette	INFO	Listening on port 40027
+1602284441304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602284589843	geckodriver	INFO	Listening on 127.0.0.1:50927
+1602284590862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXqwZOu"
+1602284599629	Marionette	INFO	Listening on port 36749
+1602284599786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/151de576f759e6cd6a3a08d0a1a86702.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+JavaScript error: https://s0.2mdn.net/4907346/1559931829190/300x250_TransUnion_v1.html, line 96: SyntaxError: illegal character
+1602284671422	geckodriver	INFO	Listening on 127.0.0.1:55237
+1602284671491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqspQb7"
+1602284679860	Marionette	INFO	Listening on port 40907
+1602284679956	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602284756104	Marionette	INFO	Stopped listening on port 40027
+1602284760826	Marionette	INFO	Stopped listening on port 40907
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602284766775	Marionette	INFO	Stopped listening on port 36749
+1602284984750	geckodriver	INFO	Listening on 127.0.0.1:59341
+1602284985747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV3sg0R"
+1602284991985	Marionette	INFO	Listening on port 36269
+1602284992068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602285591786	geckodriver	INFO	Listening on 127.0.0.1:45477
+1602285592799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoSADw4"
+1602285600235	Marionette	INFO	Listening on port 46737
+1602285600288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+1602287335588	geckodriver	INFO	Listening on 127.0.0.1:36227
+1602287336560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox-esr" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXiSmdR"
+1602287352080	Marionette	INFO	Listening on port 38095
+1602287352184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.ampproject.org/rtv/012009282107000/amp4ads-v0.js, line 28: Error: Failed to load: https://tpc.googlesyndication.com/simgad/40933678460698624​​​
+JavaScript error: https://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13388523, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1602292255192	Marionette	INFO	Stopped listening on port 38095
